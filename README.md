@@ -26,6 +26,7 @@
 - 🎨 Focused on clean UI, good UX, and performance optimization
 - 🌱 Constantly learning new technologies and improving my stack
 - 📫 Email me at [brandon062900@gmail.com](mailto:brandon062900@gmail.com).
+- 💼 <a href="https://porfolio-yjo2.vercel.app/">Portfolio</a>
 
 
 
